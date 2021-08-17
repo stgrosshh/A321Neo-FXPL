@@ -17,8 +17,6 @@
 -------------------------------------------------------------------------------
 
 --EWD
-EWD_background_img = sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EWD/background.png")
-EWD_engine_xx_img =  sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EWD/ENG_XX.png")
 EWD_slat_img =       sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EWD/slat.png")
 EWD_flap_img =       sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EWD/flap.png")
 EWD_slat_to_go_img = sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EWD/slattogo.png")
@@ -165,12 +163,6 @@ EFB_LOAD_compute_button =    sasl.gl.loadImage(moduleDirectory .. "/Custom Modul
 ------------LOAD_SUBPAGE2-------------
 
 EFB_LOAD_s2_bgd =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/bgd.png")
-EFB_LOAD_s2_dropdown1 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown1.png")
-EFB_LOAD_s2_dropdown2 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown2.png")
-EFB_LOAD_s2_dropdown3 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown3.png")
-EFB_LOAD_s2_dropdown4 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown4.png")
-EFB_LOAD_s2_dropdown5 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown5.png")
-EFB_LOAD_s2_dropdown6 =    sasl.gl.loadImage(moduleDirectory .. "/Custom Module/textures/EFB/Icons/LOAD page/Version 2/subpage 2/dropdown6.png")
 
 ------------LOAD_SUBPAGE3-------------
 
