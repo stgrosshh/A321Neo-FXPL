@@ -81,6 +81,9 @@
 {78b8fd51-ea07-41b0-8e7a-6c6325c9a885} event:/Engines V2/HowlEnd
 {202a02c2-878b-40e8-ad75-a500bd51d2bb} event:/Engines V2/HowlLogic
 {e6a2abbe-7c23-46e2-9a42-26283e21c906} event:/Engines V2/HowlLogicR
+{1b6e849a-36b8-4051-ab44-6cf7bf826a5c} event:/Engines V2 PW1100G/EnginesL
+{4d1db343-0876-449e-be12-1c03c1e015f4} event:/Engines V2 PW1100G/EnginesR
+{3d34c4f6-8517-4a2f-8415-73bf979fa1c5} event:/Engines V2 PW1100G/EnginesTestbed
 {4103ca70-07d5-4dc2-babf-bf9aa8111a0d} event:/Engines V3 LEAP/Boom
 {0401a595-e036-484a-9a97-ef19f151ce96} event:/Engines V3 LEAP/Engine Start Ext
 {6194f9e1-393c-46be-9623-345f2e882efc} event:/Engines V3 LEAP/Engine Start N2 L
@@ -151,6 +154,7 @@
 {c5026dad-5d9f-4216-8704-8c70dda24ccf} event:/GPWS/tlgear
 {3e6916a8-a12b-48c8-a1b3-6bb67fcfc52d} event:/GPWS/tlterr
 {a1ca98db-c1d8-4efd-812b-67caeb038088} event:/GPWS/windshear
+{2e0d9edf-b1fc-4732-82ee-b03596fa73a8} event:/Ground Roll 2/Nose
 {1797518a-7ff2-454e-9ee2-7b42132805f6} event:/Markers/IM
 {172b8abb-b2ca-4ee0-b795-04ff6636e2dd} event:/Markers/MM
 {6b92f900-dda8-4220-9b85-5404c507c625} event:/Markers/OM
@@ -270,6 +274,7 @@
 {7797c67b-9d14-445b-8cc9-e63e0eebabf3} event:/TouchMain
 {72dd99e0-d646-42c0-8cc7-4e3f356095cc} event:/TouchNose
 {341873bc-d31e-4ee3-9cb2-1b0c79682754} event:/Wind
+{0c5d5438-c24a-4fdf-8f39-231cdd63ed85} event:/Wind Fake
 {cba7ef70-43b1-4842-9d4b-51501041377c} event:/Yellow Hyd Pump
 {9f08114d-36ec-44cc-b8bf-b2babda09f9e} bus:/
 {7f7c05a4-e05a-4d44-94fe-d4691147a9b7} bus:/Master
@@ -282,9 +287,10 @@
 {751f5066-4651-4afb-a410-4cb9db0894c9} bus:/Master/Exterior Unprocessed/Avionics/Interior
 {d8526059-b27c-4eae-9b14-a1ee1cb3dfa1} bus:/Master/Exterior Unprocessed/Avionics/Radios
 {77575f3b-b9cd-4bff-9056-637cff744a14} bus:/Master/Exterior Unprocessed/Avionics/UI
+{dd132ea2-eeb1-43a4-b83e-4177c68b7bd9} bus:/Master/Exterior Unprocessed/ENGN
 {7a0b49ba-aead-4c30-af12-561f455d9c0b} bus:/Master/Exterior Unprocessed/EXTR
-{28180a05-2279-4e52-a471-e0f09c876cab} bus:/Master/Exterior Unprocessed/GPWS
 {317897e4-8970-4c6d-bb3a-7280ebb8060f} bus:/Master/Exterior Unprocessed/GNDRL
+{28180a05-2279-4e52-a471-e0f09c876cab} bus:/Master/Exterior Unprocessed/GPWS
 {b044900b-47b8-49df-a4ad-09b875247d7b} bus:/Master/Exterior Unprocessed/INTR
 {15e9c653-fbca-41ca-8241-7cd3b3870fc8} snapshot:/Inside
 {e5b38f91-83fb-4cec-a2d2-a0170dddb70a} snapshot:/FadingBegin
